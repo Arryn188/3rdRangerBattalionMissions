@@ -1,0 +1,4 @@
+class CfgFunctions
+{
+	#include "RifleTargets\cfgfunctions.hpp"
+};
